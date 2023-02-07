@@ -195,7 +195,7 @@ function EnhancedTableToolbar(props) {
           id="tableTitle"
           component="div"
         >
-          Nutrition
+          Scraped Products
         </Typography>
       )}
 

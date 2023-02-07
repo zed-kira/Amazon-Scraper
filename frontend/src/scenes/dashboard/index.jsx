@@ -180,7 +180,7 @@ const Header = () => {
             </Flex>
 
             <Space size="middle">
-                <a href="#" style={{ style: 'none' }}>
+                <a href="https://github.com/zed-kira/Amazon-Scraper" style={{ style: 'none' }}>
                     <GitHubIcon fontSize="large" />
                 </a>
                 <Badge count={5}>

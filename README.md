@@ -1,2 +1,2 @@
 # Amazon-Scraper
-A large-scale Amazon Scraper built using Python and flet.
+A large-scale Amazon Scraper built using React & Django Rest Framework.
